@@ -11,3 +11,16 @@ C:\Users\Felipe\Desktop\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixaca
 C:\Users\Felipe\Desktop\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.dll
 C:\Users\Felipe\Desktop\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.pdb
 C:\Users\Felipe\Desktop\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\bin\Debug\netcoreapp3.1\Ex3-ListaFixacao.exe
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\bin\Debug\netcoreapp3.1\Ex3-ListaFixacao.deps.json
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\bin\Debug\netcoreapp3.1\Ex3-ListaFixacao.runtimeconfig.json
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\bin\Debug\netcoreapp3.1\Ex3-ListaFixacao.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\bin\Debug\netcoreapp3.1\Ex3-ListaFixacao.dll
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\bin\Debug\netcoreapp3.1\Ex3-ListaFixacao.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.dll
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Ex3-ListaFixacao\obj\Debug\netcoreapp3.1\Ex3-ListaFixacao.genruntimeconfig.cache

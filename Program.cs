@@ -23,7 +23,7 @@ namespace Ex3_ListaFixacao
             Console.WriteLine();
 
             Console.WriteLine($"Por favor informe o preço unitário do(a) {produto} selecionado(a) ($): \n");
-            double valor = double.Parse(Console.ReadLine());
+            float valor = float.Parse(Console.ReadLine());
 
             double total = quantidade * valor;
 

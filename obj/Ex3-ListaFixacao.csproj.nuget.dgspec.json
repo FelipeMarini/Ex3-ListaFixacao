@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Desktop\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj": {}
+    "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Desktop\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj": {
+    "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj",
         "projectName": "Ex3-ListaFixacao",
-        "projectPath": "C:\\Users\\Felipe\\Desktop\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj",
+        "projectPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex3-ListaFixacao\\Ex3-ListaFixacao.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Desktop\\Ex3-ListaFixacao\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex3-ListaFixacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
